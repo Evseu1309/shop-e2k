@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+header img{
+        margin-right: 70px;
+        width:100px;
+}
+header{
+    background-color: black;;
+}
+
+header p{
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.a{
+    font-size: 50px;
+}
+
+footer{
+    background-color: rgb(176, 160, 160);
+    padding: 20px;
+}
